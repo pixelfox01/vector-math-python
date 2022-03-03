@@ -1,4 +1,4 @@
-from Vector import Vector2D
+from Vector2D import Vector2D
 
 v1 = Vector2D(1, 0)
 v2 = Vector2D(0, 1)
